@@ -10,7 +10,7 @@ Flask-Cors
 Flask-RESTful
 gevent>=1.5a3
 guppy3
-marshmallow-dataclass==6.0.0
+marshmallow-dataclass==8.3.1
 marshmallow-polyfield
 marshmallow
 marshmallow_enum
